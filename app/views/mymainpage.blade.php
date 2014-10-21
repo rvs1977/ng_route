@@ -1,0 +1,1 @@
+<div>this is my main page from the server</div>
